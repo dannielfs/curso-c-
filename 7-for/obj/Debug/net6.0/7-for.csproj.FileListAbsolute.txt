@@ -1,0 +1,15 @@
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\7-for\bin\Debug\net6.0\7-for.exe
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\7-for\bin\Debug\net6.0\7-for.deps.json
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\7-for\bin\Debug\net6.0\7-for.runtimeconfig.json
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\7-for\bin\Debug\net6.0\7-for.dll
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\7-for\bin\Debug\net6.0\7-for.pdb
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\7-for\obj\Debug\net6.0\7-for.csproj.AssemblyReference.cache
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\7-for\obj\Debug\net6.0\7-for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\7-for\obj\Debug\net6.0\7-for.AssemblyInfoInputs.cache
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\7-for\obj\Debug\net6.0\7-for.AssemblyInfo.cs
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\7-for\obj\Debug\net6.0\7-for.csproj.CoreCompileInputs.cache
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\7-for\obj\Debug\net6.0\7-for.dll
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\7-for\obj\Debug\net6.0\refint\7-for.dll
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\7-for\obj\Debug\net6.0\7-for.pdb
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\7-for\obj\Debug\net6.0\7-for.genruntimeconfig.cache
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\7-for\obj\Debug\net6.0\ref\7-for.dll
