@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danni\\Documents\\workspace\\estudos\\c#\\curso_01-aprendendo-C_sharp\\1-OlaMundo\\1-OlaMundo.csproj": {}
+    "C:\\Users\\danni\\Documents\\workspace\\estudos\\c#\\curso_01-aprendendo-C_sharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danni\\Documents\\workspace\\estudos\\c#\\curso_01-aprendendo-C_sharp\\1-OlaMundo\\1-OlaMundo.csproj": {
+    "C:\\Users\\danni\\Documents\\workspace\\estudos\\c#\\curso_01-aprendendo-C_sharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danni\\Documents\\workspace\\estudos\\c#\\curso_01-aprendendo-C_sharp\\1-OlaMundo\\1-OlaMundo.csproj",
-        "projectName": "1-OlaMundo",
-        "projectPath": "C:\\Users\\danni\\Documents\\workspace\\estudos\\c#\\curso_01-aprendendo-C_sharp\\1-OlaMundo\\1-OlaMundo.csproj",
+        "projectUniqueName": "C:\\Users\\danni\\Documents\\workspace\\estudos\\c#\\curso_01-aprendendo-C_sharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
+        "projectName": "2-CriandoVariaveis",
+        "projectPath": "C:\\Users\\danni\\Documents\\workspace\\estudos\\c#\\curso_01-aprendendo-C_sharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
         "packagesPath": "C:\\Users\\danni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danni\\Documents\\workspace\\estudos\\c#\\curso_01-aprendendo-C_sharp\\1-OlaMundo\\obj\\",
+        "outputPath": "C:\\Users\\danni\\Documents\\workspace\\estudos\\c#\\curso_01-aprendendo-C_sharp\\2-CriandoVariaveis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
