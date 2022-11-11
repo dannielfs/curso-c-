@@ -1,0 +1,15 @@
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\3-CriandoVariaveisFlutuante\bin\Debug\net6.0\3-CriandoVariaveisFlutuante.exe
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\3-CriandoVariaveisFlutuante\bin\Debug\net6.0\3-CriandoVariaveisFlutuante.deps.json
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\3-CriandoVariaveisFlutuante\bin\Debug\net6.0\3-CriandoVariaveisFlutuante.runtimeconfig.json
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\3-CriandoVariaveisFlutuante\bin\Debug\net6.0\3-CriandoVariaveisFlutuante.dll
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\3-CriandoVariaveisFlutuante\bin\Debug\net6.0\3-CriandoVariaveisFlutuante.pdb
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\3-CriandoVariaveisFlutuante\obj\Debug\net6.0\3-CriandoVariaveisFlutuante.csproj.AssemblyReference.cache
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\3-CriandoVariaveisFlutuante\obj\Debug\net6.0\3-CriandoVariaveisFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\3-CriandoVariaveisFlutuante\obj\Debug\net6.0\3-CriandoVariaveisFlutuante.AssemblyInfoInputs.cache
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\3-CriandoVariaveisFlutuante\obj\Debug\net6.0\3-CriandoVariaveisFlutuante.AssemblyInfo.cs
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\3-CriandoVariaveisFlutuante\obj\Debug\net6.0\3-CriandoVariaveisFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\3-CriandoVariaveisFlutuante\obj\Debug\net6.0\3-CriandoVariaveisFlutuante.dll
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\3-CriandoVariaveisFlutuante\obj\Debug\net6.0\refint\3-CriandoVariaveisFlutuante.dll
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\3-CriandoVariaveisFlutuante\obj\Debug\net6.0\3-CriandoVariaveisFlutuante.pdb
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\3-CriandoVariaveisFlutuante\obj\Debug\net6.0\3-CriandoVariaveisFlutuante.genruntimeconfig.cache
+C:\Users\danni\Documents\workspace\estudos\c#\curso_01-aprendendo-C_sharp\3-CriandoVariaveisFlutuante\obj\Debug\net6.0\ref\3-CriandoVariaveisFlutuante.dll
