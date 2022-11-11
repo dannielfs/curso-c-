@@ -19,5 +19,12 @@ class Programa
         string primeiraFrase = "Curso ";
         primeiraFrase = primeiraFrase + 2022;
         Console.WriteLine(primeiraFrase);
+
+        string cursos = @"Cursos disponíveis
+- Go
+- C#
+- Java";
+        Console.WriteLine(cursos);
+
     }
 }
